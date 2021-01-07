@@ -4,6 +4,8 @@
 
 ## 未实现
 
-* 生成目录下的所有proto文件，到lua代码里，合并为一个
-* 生成request对应response的对应文件
-* 区分notify的message，生成handler对应文件
+- [ ] 生成目录下的所有proto文件，到lua代码里，合并为一个
+
+- [x] 生成request对应response的对应文件
+
+- [ ] 区分notify的message，生成handler对应文件
